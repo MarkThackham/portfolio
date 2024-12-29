@@ -1,0 +1,9 @@
+Price: Monthly rental price in GBP.
+Property Type: Classification of the property (e.g., Apartment, Flat).
+Bedrooms: Number of bedrooms in the property.
+Bathrooms: Number of bathrooms.
+Size: Property size in square feet (where available).
+Postcode: Postal code of the property location.
+Area: General area or neighborhood information.
+Price_Category: Categorization of prices into predefined ranges (e.g., Low, Medium, High).
+Area_Avg_Price: Average price of properties within the same area.
