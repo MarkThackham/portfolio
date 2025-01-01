@@ -1,0 +1,23 @@
+https://www.kaggle.com/datasets/varunchawla30/german-credit-data
+
+Status - Categorical (Ordinal)
+Duration - Numerical
+Credit History - Categorical (Nominal)
+Purpose - Categorical (Nominal)
+Amount - Numerical
+Savings - Categorical (Ordinal)
+Employment Duration - Categorical (Ordinal)
+Installment Rate - Categorical (Ordinal)
+Personal Status Sex - Categorical (Nominal)
+Other Debtors - Categorical (Nominal)
+Present Residence - Categorical (Ordinal)
+Property - Categorical (Nominal)
+Age - Numerical
+Other Installment Plans - Categorical (Nominal)
+Housing - Categorical (Nominal)
+Number Credits - Categorical (Ordinal)
+Job - Categorical (Nominal)
+People Liable - Categorical (Ordinal)
+Telephone - Categorical (Nominal)
+Foreign Worker - Categorical (Nominal)
+Credit Risk - Binary Target Variable
